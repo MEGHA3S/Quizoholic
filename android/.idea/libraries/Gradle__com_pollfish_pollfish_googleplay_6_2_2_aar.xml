@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pollfish:pollfish-googleplay:6.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b9356d26b2626afd243d0b366a31d715/transformed/jetified-pollfish-googleplay-6.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b9356d26b2626afd243d0b366a31d715/transformed/jetified-pollfish-googleplay-6.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b9356d26b2626afd243d0b366a31d715/transformed/jetified-pollfish-googleplay-6.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
